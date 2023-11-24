@@ -1,9 +1,17 @@
 <h1 align="center">Hi 👋, I'm Utpal Paul</h1>
 <h3 align="center">Machine Learning and Computer Vision Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=utpal108&label=Profile%20views&color=0e75b6&style=flat" alt="utpal108" /> </p>
+## 🚀 About Me
+I’m a Front End Web developer who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind. Over the past years, I created 100s of websites for my clients. I pride myself on doing quality work and maintaining excellent communication. Most of the time I work with WordPress but some technologies I enjoy working with include ReactJS, JavaScript as well as PHP. 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=utpal108" alt="utpal108" /></a> </p>
+## 👨‍💻 Skills & Experiance: 
+✅ WordPress <br> 
+✅ JavaScript <br>
+✅ PHP <br>
+✅ HTML5 / CSS3 / SASS / Bootstrap <br>
+✅ Photoshop / Illustrator <br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shovoalways&layout=compact)
 
 
 
