@@ -5,17 +5,18 @@
 I’m a Front End Web developer who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind. Over the past years, I created 100s of websites for my clients. I pride myself on doing quality work and maintaining excellent communication. Most of the time I work with WordPress but some technologies I enjoy working with include ReactJS, JavaScript as well as PHP. 
 
 ## 👨‍💻 Skills & Experiance: 
-✅ Statistical Analysis <br> 
-✅ Data Analysis <br>
+✅ Data Science <br> 
+✅ Statistical Analysis / Data Analysis <br>
 ✅ DBMS / RDBMS / MySQL /  NoSQL / MongoDB <br>
 ✅ Artificial Intelligence / Machine Learning / Deep Learning <br>
-✅ Computer Vision / Image Processing / Image Classiﬁcation / Object Detection / Object Tracking / Image Segmentation / Pose Detection <br>
-✅ Cloud Computing <br> 
+✅ Computer Vision / Image Processing / Image Classiﬁcation <br>
+✅ Object Detection / Object Tracking / Image Segmentation / Pose Detection <br>
+✅ Cloud Computing <br><br> 
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shovoalways&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=utpal108&layout=compact)
 
 
 
@@ -24,10 +25,3 @@ I’m a Front End Web developer who is passionate about making error-free websit
 
 ## 📧 For Any Inquiries 
 ✅  ► utpalpaul108@gmail.com
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=utpal108&show_icons=true&locale=en&layout=compact" alt="utpal108" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=utpal108&show_icons=true&locale=en" alt="utpal108" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=utpal108&" alt="utpal108" /></p>
