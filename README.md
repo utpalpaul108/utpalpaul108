@@ -41,9 +41,17 @@ I’m a Computer Vision Engineer, who is passionate about harnessing the power o
 
 ## ☕ Connect with me!
 
-<p dir="auto"><a href="https://www.linkedin.com/in/utpalpaul108/" rel="nofollow"><img src="https://camo.githubusercontent.com/4be994899f673a5bcd6d5b3b123a757b161b9884a5e09dc7005aa7b6636be653/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666c61742d737175617265266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="Linkedin" data-canonical-src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a>
-<a href="https://twitter.com/utpalpaul108" rel="nofollow"><img src="https://camo.githubusercontent.com/af5dbfd48f13c56bed4395ea6f2b95fd525c54847f7cec35eb9c69c637cefd2e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547769747465722d3144413146323f7374796c653d666c61742d737175617265266c6f676f3d74776974746572266c6f676f436f6c6f723d7768697465" alt="Twitter" data-canonical-src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&amp;logo=twitter&amp;logoColor=white" style="max-width: 100%;"></a>
-<a href="https://facebook.com/utpalpaul1632" rel="nofollow"><img src="https://camo.githubusercontent.com/847d0a14ea070fee8b143a494e2843c485f0137ee52fc1ac9860f4c7c2e2da78/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f46616365626f6f6b2d3138373746323f7374796c653d666c61742d737175617265266c6f676f3d66616365626f6f6b266c6f676f436f6c6f723d7768697465" alt="Facebook" data-canonical-src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&amp;logo=facebook&amp;logoColor=white" style="max-width: 100%;"></a></p>
+<div align="left">
+  <a href="https://www.linkedin.com/in/utpalpaul108" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" style="max-width: 100%;" alt="linkedin logo"  />
+  </a>
+  <a href="https://twitter.com/utpalpaul108" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" style="max-width: 100%;" alt="twitter logo"  />
+  </a>
+  <a href="https://facebook.com/utpalpaul1632" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=316FF6&logoColor=white&labelColor=&style=for-the-badge" style="max-width: 100%;" alt="Facebook logo"  />
+  </a>
+</div>
 
 ## 📧 For Any Inquiries 
 ✅  ► utpalpaul108@gmail.com
