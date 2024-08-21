@@ -12,6 +12,7 @@ I’m a Computer Vision Engineer, who is passionate about harnessing the power o
 ✅ Computer Vision / Image Processing / Image Classiﬁcation <br>
 ✅ Object Detection / Object Tracking / Image Segmentation / Pose Detection <br>
 ✅ MLOps / DVC / CI/CD pipelines / Cloud Computing <br> 
+✅ Python / Django / Flask / FastAPI <br> 
 
 ## Languages and Tools:
 
